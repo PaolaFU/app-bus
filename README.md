@@ -1,3 +1,8 @@
+# Easy-Bus
+
+Easy-Bus, es un producto digital para mejorar la experiencia en empresas de buses. Esta aplicación permite comprar o reservar pasajes, a cualquier parte del Perú, a un precio normal cuando se acerca un feriado o alguna festividad, evitando pagar un precio extra por el pasaje.
+
+
 # **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
 
 >Track: Common Core.  
