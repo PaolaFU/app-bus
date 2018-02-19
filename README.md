@@ -9,7 +9,7 @@ Easy-Bus, es un producto digital para mejorar la experiencia en empresas de buse
 
 
 
-# **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
+# Nueva experiencia en empresas de buses  
 
 >Track: Common Core.  
 Unidad: Primer proyecto Ux.  
