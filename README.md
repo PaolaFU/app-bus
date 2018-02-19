@@ -4,10 +4,9 @@ Easy-Bus, es un producto digital para mejorar la experiencia en empresas de buse
 
 ![image](https://user-images.githubusercontent.com/32306054/36369070-e8275984-1527-11e8-910a-d984f93f1ead.png)
 
-# Desarollado para
+## Desarollado para
 [Laboratoria](http://www.laboratoria.la/)
 
-## --------------------------------------------------------------------------------------
 
 
 # **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
