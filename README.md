@@ -21,13 +21,13 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 *Dado este contexto.*
 
-→ **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
+→ ¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses? 
 
-## ***DESARROLLO DEL PROYECTO***
+## DESARROLLO DEL PROYECTO
 
 #### Día 1 
 
-### **PLANIFICACION** 
+### PLANIFICACION
 
 ![Hoja de planificacion](assets/images/planificacion.JPG)  
 #### Día 1 :
@@ -36,7 +36,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
     - 10 Preguntas (Online/Presencial).
 
 #### Día 2 :  
-- **Ux Research** : Entrevistas a usuarios.  
+- Ux Research : Entrevistas a usuarios.  
 
   - Horario de encuentro del grupo para la entrevista 9:00am.  
   - Primer punto de la entrevista Av.Javier Prado,empresa Movil Tours y Cruz del Sur.(2p)  
@@ -45,45 +45,45 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
   - 20 Personas a entrevistar aproximadamente.  
 
 
--  **Análisis de Usuario**  : Analizando la información recaudada.
+-  Análisis de Usuario  : Analizando la información recaudada.
 
     - Punto de encuentro Laboratoria 12:00pm para reunir todas la información recaudada.
     - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
     - Investigar empresas del mismo rubro.  
 
 #### Día 3 :  
--  **Mapa de afinidad**
+-  Mapa de afinidad
       - Realizar un mapa de afinidad o lluvia de ideas para detectar las necesidades del usuario.
       - Priorizar y decidir qué problemática vamos a abordar.  
       - Hacer un benchmark y buscar referencias relacionadas a el problema.  
 
 #### Día 4 :
-- **Presentación del problema** : Presentación en clase y feedback del problema a tratar.
+-  Presentación del problema : Presentación en clase y feedback del problema a tratar.
     - Explicación de los temas encontrados en el diagrama de afinidad.  
     - ¿Cómo priorizaron y seleccionaron el problema de su squad?  
     - Presentación del problema a abordar.  
 
 #### Día 5:  
-- **User personas y Brainstorming**
-    - Crear un user persona para entender mejor las metas, deseos y limitaciones de los principales grupos de usuario de nuestro producto.  
+-  User personas y Brainstorming
+    - Crear un user persona para entender mejor las metas, deseos y limitaciones de los principales grupos de usuario de nuestro 	       producto.  
     - Elaborar los problem statements del caso ya que nos ayudaran a centrarnos en resultados y no en productos.  
     - Escribir HMW y what if? para así entender mejor los problemas y desarrollar mejores hipótesis.  
     - Hacer una lista de funcionalidades que pueden resolver los HMW.  
-- **Definir el MVP**
+- Definir el MVP
     - Priorizar lista de features y definir el MVP.  
     - Hacer un storyboard y recibir feedback.  
 
 #### Día 6:
-- **Testeo**
+- Testeo
      - Hacer un content prototype.  
      - Testearlo en pareja con compañeras de otro squad.
      
 #### Día 7:
-- **Exposicion final**
+- Exposicion final
      - Testeo del prototype a diferentes personas.
      
 #### Día 8:
-- **Exposicion final**
+- Exposicion final
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
      
@@ -91,9 +91,9 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 
 #### Día 2
 
-## **UX RESEARCH Y ANALISIS DE USUARIO.**
+## UX RESEARCH Y ANALISIS DE USUARIO.
 
-## **Encuestas presenciales.**
+## Encuestas presenciales.
 
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
@@ -103,7 +103,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
    - Punto 2: Av.28 de Julio –La Victoria: Agencias de Transporte Terrestre.
 - Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
 
-### **Preguntas:**
+### Preguntas:
 
 1. ¿Alguna experiencia buena o mala con los servicios que ofrece
  la empresa de buses?
@@ -127,7 +127,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 10. ¿Cuál es el problema más recurrente al viajar en festividades?
 
 
-#### **Respuesta de uno de los entrevistados:**
+#### *espuesta de uno de los entrevistados:
 
   - *Viajo por motivos familiares.*   
   - *Siempre viajo por confianza.*  
@@ -136,7 +136,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
   - *El precio se incrementa de los pasajes.*
 
 
-#### **Según las encuestas que realizamos el 60% de las personas nos indican que desean :**  
+#### Según las encuestas que realizamos el 60% de las personas nos indican que desean :
 
 - Rapidez en la venta de pasajes.  
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
@@ -144,7 +144,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - Eligen a la empresa en la que viajaran por que hay mucha seguridad.  
 - Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada.
 
-## **Encuestas on-line.**
+## Encuestas on-line.
 Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades así como también los problemas más frecuentes al viajar en bus.
 
 ![Encuestas](assets/images/encuesta.jpg)  
@@ -152,7 +152,7 @@ Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades 
 ![Encuestas](assets/images/encuesta2.jpg)
 
 #### Día 3 
-## **DIAGRAMA DE AFINIDAD**
+## DIAGRAMA DE AFINIDAD
 
 Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
 
@@ -171,7 +171,7 @@ Por ejemplo :
 ![Diagrama](assets/images/diagrama-3.jpg)
 
 #### Día 4 
-## **PRESENTACIÓN DEL PROBLEMA**
+## PRESENTACIÓN DEL PROBLEMA
 
 Temas encontrados en el diagrama de afinidad.
 
@@ -190,38 +190,38 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 ![Diagrama](assets/images/diagrama-4.jpg)
 
 #### Día 5 
-## **USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD**
+## USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD
 
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
 ![Diagrama](assets/images/userperson.png)
 
-- **Problem Statement**
+- Problem Statement
   1. Ana quisiera viajar en una empresa que brinde seguridad en base a la recomendación de otras personas.
   2. Ana necesita reservar sus pasajes para economizar más.
   3. Ana necesita recordar las fechas exactas de feriados u otros acontecimientos para la reserva de su pasaje.
   4. Ana necesita ser informada para comprar sus pasajes a tiempo.
   5. Ana necesita alternativas de precios de pasajes para elegir el que le conviene.
 
-- **HMW – How Might We?**
+- HMW – How Might We?
   - ¿Cómo podríamos ayudar a Ana a reservar sus pasajes con anticipación?
   - ¿Cómo podríamos ayudar a Ana a economizar?
   - ¿Cómo podríamos brindarle sugerencias a Ana sobre en qué empresa debe viajar?
 
 
-- **Whats if?**
+- Whats if?
   - ¿Qué tal si hablo con empresas para que no suban los precios por fiestas?
   - ¿Qué tal su Ana no sabe utilizar la app?
   - ¿Qué tal si Ana no tiene un Smartphone?
   - ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
-## **STORYBOARD**
+## STORYBOARD
 
 ![storyboard](assets/images/storyboard1.jpg)
 ![storyboard2](assets/images/storyboard2.jpg)
 
 #### Día 6 
-## **PROTOTYPING CONTENT**
+## PROTOTYPING CONTENT
 
 Se realizó  un primer content prototype, en el cual recibimos feedback de otro squads, y nos ayudo a: 
 
@@ -230,8 +230,6 @@ Se realizó  un primer content prototype, en el cual recibimos feedback de otro 
 - A empezar a tener una noción tangible de nuestro proyecto
 
 ![prototipo](assets/images/testeoprototipo.jpeg)
-
-##
 
 #### Content prototype final
 
@@ -244,7 +242,7 @@ Hola Ana Rodriguez
 
 - Disfruta de los Feriados y Festividades sin pagar más por tu pasajes.
 
-    - *Permitir el uso de GPS para la ubicación.*
+    - Permitir el uso de GPS para la ubicación.
 
 
 - Por el mes de Marzo :
@@ -257,7 +255,7 @@ Hola Ana Rodriguez
 
 - Al usuario se le muestra una imagen por festividad o feriados que se  aproximan.
 
-*(Elige viajar a Ayacucho por Semana Santa)*
+(Elige viajar a Ayacucho por Semana Santa)
 
 
 - A Ayacucho, puedes viajar con las siguientes empresas:
@@ -274,7 +272,7 @@ Hola Ana Rodriguez
 
 - Para continuar es necesario registrarte o iniciar tu sesión con Facebook o Google.
 
-*(Elige iniciar sesión con Facebook)*
+(Elige iniciar sesión con Facebook)
 
 - Se muestra el mes que viene o se puede elegir otro mes en adelante para ver feriados o festividades que habrá.
 
@@ -283,14 +281,14 @@ Hola Ana Rodriguez
    •	Mayo  
    •	Junio  
 
-*(Elige Marzo)*
+(Elige Marzo)
 
 - Se visualizará las festividades que habrá en el mes de Marzo.
 
    •	Semana Santa
    •	Carnaval Jaujino
 
-*(Elige carnaval Jaujino)*
+(Elige carnaval Jaujino)
 
 - Te conviene comprar o reservar tus pasajes en estas fechas
 
@@ -303,7 +301,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
   	Oltursa : 11 pasajes disponibles
   	Movil Bus : 5 pasajes disponibles
 
-*(Elige Cruz del Sur)*
+(Elige Cruz del Sur)
 
 - Te damos la opción:
 
@@ -324,7 +322,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
        Total:S/. 120.00
 
-  *(Elige pagar)*
+  (Elige pagar)
 
 - ¡Listo!
 
@@ -345,7 +343,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
 #### Día 7
 
-## **PROTOTYPING ANTERIORES Y TESTEO**
+## PROTOTYPING ANTERIORES Y TESTEO
 
 Diversos prototipos, realizados para mejorar el flujo de la aplicación.
 ![prototipo](assets/images/prototipos.jpeg)
@@ -358,7 +356,7 @@ Testeó a diversas personas que nos ayudaron a implementar un mejor prototipo.
 ![prototipo](assets/images/TESTEOS.jpg)
 #### Día 8
 
-## **PROTOTYPING FINAL**
+## PROTOTYPING FINAL
 
 ![prototipo](assets/images/prototipo1.png)
 ![prototipo](assets/images/prototipo2.png)
